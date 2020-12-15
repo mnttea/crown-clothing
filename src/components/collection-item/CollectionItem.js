@@ -14,3 +14,6 @@ const CollectionItem = ({ id, name, price, imageUrl }) => {
 };
 
 export default CollectionItem;
+
+//* This component is used in... *//
+// CollectionPreview.js
